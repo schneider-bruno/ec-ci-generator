@@ -1,0 +1,19 @@
+{
+  "name": "ec-ci-generator",
+  "version": "1.0.0",
+  "description": "Generate Ecuadorian ID cards",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schneider-bruno/ec-ci-generator.git"
+  },
+  "author": "schneider-bruno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/schneider-bruno/ec-ci-generator/issues"
+  },
+  "homepage": "https://github.com/schneider-bruno/ec-ci-generator#readme"
+}
