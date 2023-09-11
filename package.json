@@ -3,6 +3,13 @@
   "version": "1.0.0",
   "description": "Generate Ecuadorian ID cards",
   "main": "src/index.js",
+  "keywords": [
+    "ci",
+    "ecuador",
+    "identidad",
+    "cédula",
+    "generador"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
